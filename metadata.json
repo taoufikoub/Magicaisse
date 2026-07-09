@@ -1,0 +1,6 @@
+{
+  "name": "Magicaise",
+  "description": "Full POS web app for a physical toy shop that manages a master shared inventory across four Shopify online brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
